@@ -3,7 +3,7 @@
 A responsive and modern website built with HTML & CSS, showcasing a food and beverage business with elegant animations and transitions.
 
 ## 🚀 Live Demo
-[View Live Demo](https://yesh-dev.github.io/Hunger/)
+[View Live Demo](https://hunger-yesh.netlify.app/)
 
 ## 📋 Features
 
